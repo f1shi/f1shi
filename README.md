@@ -4,12 +4,14 @@
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Core stack                                                                                                                                                                                  
-**Frontend**                                                                                                                                                                                 React, HTML5, CSS3
+**Frontend**<br>
+React, HTML5, CSS3<br>
 ![Frontend](https://skillicons.dev/icons?i=react,html,css)
 
-**Backend**                                                                                                                                                                                  Node.js, PostgreSQL
+**Backend**<br>
+Node.js, PostgreSQL<br>
 ![Backend](https://skillicons.dev/icons?i=nodejs,postgres)
 
-**Tools**                                                                                                                                                                                    
-Docker, Git, macOS
+**Tools**<br> 
+Docker, Git, macOS<br>
 ![Tools](https://skillicons.dev/icons?i=docker,git,apple)
