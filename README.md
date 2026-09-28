@@ -4,5 +4,5 @@ about
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
 core stack                                                                                                                                                                                  
-![JavaScript](https://shields.io)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,nodejs,postgres,docker,git)
 
