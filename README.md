@@ -1,7 +1,8 @@
 about 
 
-19•years•old, full-stack developer, obsessed, 8+ hours programming session every day
+19•years•old, full-stack developer, obsessed, 8+ hour programming sessions every day
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
 core stack                                                                                                                                                                                  
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+![JavaScript](https://shields.io)
+
