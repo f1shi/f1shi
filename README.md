@@ -14,5 +14,4 @@ Node.js, PostgreSQL<br>
 
 **Tools**<br> 
 Docker, Git, macOS<br>
-![Tools](https://skillicons.dev/icons?i=docker,git)
-![Apple](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)
+![Tools](https://skillicons.dev/icons?i=docker,git,apple)
