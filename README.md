@@ -1,6 +1,6 @@
 ### About 
 
-19•years•old, full-stack developer, obsessed, 8+ hour programming sessions every day
+19•years•old, full-stack developer, obsessed, 8+ hour programming sessions every day, coffee ambassador
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Core stack                                                                                                                                                                                  
