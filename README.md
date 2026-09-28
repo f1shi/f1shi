@@ -15,4 +15,4 @@ Node.js, PostgreSQL<br>
 **Tools**<br> 
 Docker, Git, macOS<br>
 ![Tools](https://skillicons.dev/icons?i=docker,git)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Apple](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)
