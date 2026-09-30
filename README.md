@@ -5,8 +5,8 @@ ________________________________________________________________________________
 
 ### Core stack                                                                                                                                                                                  
 **Frontend**<br>
-React, HTML5, CSS3<br>
-![Frontend](https://skillicons.dev/icons?i=react,html,css)
+React, JS, HTML5, CSS3<br>
+![Frontend](https://skillicons.dev/icons?i=react,js,html,css)
 
 **Backend**<br>
 Node.js, PostgreSQL<br>
